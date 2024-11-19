@@ -1,11 +1,5 @@
-number_1 = input("Enter a number : ")
-number_2 = input("Enter a second number : ")
+celsius = input("Enter the temperature in Celsius : ")
+fahrenheit = float(celsius)*(9/5)+32
+print ("Temperature in Celsius:", float(celsius),"°C")
+print("Temperature in Fahrenheit:", fahrenheit,"°F")
 
-number_1 = float(number_1)
-number_2 = float (number_2)
-
-print ("First number:", number_1)
-print ("Second number:", number_2)
-
-total = number_1 + number_2
-print ("The sum is:", total)
