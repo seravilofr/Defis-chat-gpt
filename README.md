@@ -42,3 +42,19 @@ Ce que tu apprends avec ce défi :
 - S'assurer que tu maîtrises les bases : Manipulation des entrées, des variables et des types de données.
 
 _______________________________
+
+**Défi 3 : Vérification d’un nombre pair ou impair**
+
+Écris un programme Python qui :
+
+- Demande à l'utilisateur un nombre entier.
+- Vérifie si ce nombre est pair ou impair.
+- Affiche un message indiquant le résultat, comme :
+  * "The number X is even."
+  * "The number X is odd."
+
+Ce que tu apprends avec ce défi :
+
+- Structures conditionnelles : Utilisation de if et else pour prendre des décisions en fonction des données.
+- Opérateurs mathématiques : Comprendre l'opérateur modulo (%) qui permet de savoir si un nombre est divisible par un autre.
+- Types de données : Manipuler des nombres entiers avec int.
