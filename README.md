@@ -35,6 +35,8 @@ ________________________
 
 La formule de conversion est : F=C×(9/5)+32
 
+![](https://github.com/seravilofr/Defis-chat-gpt/blob/main/images/Celsius%20to%20Fahrenheit%20conversion.png?raw=true)
+
 Ce que tu apprends avec ce défi :
 
 - Opérations mathématiques : Comment utiliser des formules dans Python.
