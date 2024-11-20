@@ -60,3 +60,19 @@ Ce que tu apprends avec ce défi :
 - Structures conditionnelles : Utilisation de if et else pour prendre des décisions en fonction des données.
 - Opérateurs mathématiques : Comprendre l'opérateur modulo (%) qui permet de savoir si un nombre est divisible par un autre.
 - Types de données : Manipuler des nombres entiers avec int.
+
+___________________________________________
+
+**Défi 4 : Calculatrice de moyenne**
+
+Écris un programme Python qui :
+
+- Demande à l'utilisateur combien de notes il veut entrer.
+- Permet à l'utilisateur d'entrer ces notes (une à une).
+- Calcule la moyenne de ces notes et l'affiche.
+
+Ce que tu apprends avec ce défi :
+
+- Boucles : Utiliser une boucle pour demander plusieurs entrées de l'utilisateur.
+- Listes : Stocker plusieurs valeurs dans une liste.
+- Calculs avec des listes : Additionner les éléments d'une liste et calculer la moyenne.
