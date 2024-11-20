@@ -76,3 +76,30 @@ Ce que tu apprends avec ce défi :
 - Boucles : Utiliser une boucle pour demander plusieurs entrées de l'utilisateur.
 - Listes : Stocker plusieurs valeurs dans une liste.
 - Calculs avec des listes : Additionner les éléments d'une liste et calculer la moyenne.
+
+_________________________________________________
+
+**Défi 5 : Jeu de devinettes**
+
+Crée un programme Python qui :
+
+- Génère un nombre aléatoire entre 1 et 100 (inclus).
+- Demande à l'utilisateur de deviner ce nombre.
+- Informe l'utilisateur si sa réponse est trop haute, trop basse ou correcte.
+- Continue jusqu'à ce que l'utilisateur trouve le bon nombre.
+- Affiche le nombre de tentatives une fois que l'utilisateur a deviné correctement.
+
+Ce que tu apprends avec ce défi :
+
+- Modules Python : Utiliser le module random pour générer un nombre aléatoire.
+- Boucles : Répéter une action jusqu'à ce qu'une condition soit remplie (while).
+- Structures conditionnelles : Comparer les entrées utilisateur au nombre cible.
+
+Exemple de fonctionnement attendu :
+
+```
+Guess the number (between 1 and 100): 50
+Too high! Try again: 25
+Too low! Try again: 30
+Congratulations! You guessed the number in 3 attempts.
+```
