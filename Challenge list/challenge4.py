@@ -7,7 +7,7 @@ try:
   for i in range(grades_nb):
       while True: #redemande en boucle une note qui ne serait pas bonne
         try:
-          grade = float(input(f"Grade n°{i+1} : "))
+          grade = float(input(f"Grade No.{i+1} : "))
           grades_input.append(grade)
           break  # quitte la boucle si la saisie est valide
         except ValueError:
