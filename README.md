@@ -103,3 +103,25 @@ Too high! Try again: 25
 Too low! Try again: 30
 Congratulations! You guessed the number in 3 attempts.
 ```
+
+_____________________________________
+
+**Défi 6 : Calcul de la factorielle d'un nombre**
+
+Objectif : Écrire un programme qui calcule la factorielle d'un nombre donné par l'utilisateur. La factorielle d'un nombre entier positif n (notée n!) est le produit de tous les entiers de 1 à n. Par exemple :
+
+```
+5! = 5 * 4 * 3 * 2 * 1 = 120
+``` 
+
+Instructions :
+
+- Demander à l'utilisateur de saisir un nombre entier positif.
+- Calculer la factorielle de ce nombre en utilisant une boucle for.
+- Afficher le résultat de la factorielle.
+
+Concepts à utiliser :
+
+- Les boucles for.
+- La gestion des entrées utilisateur avec input().
+- La conversion de la saisie de l'utilisateur en entier avec int().
