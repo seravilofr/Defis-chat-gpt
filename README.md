@@ -125,3 +125,56 @@ Concepts à utiliser :
 - Les boucles for.
 - La gestion des entrées utilisateur avec input().
 - La conversion de la saisie de l'utilisateur en entier avec int().
+
+_______________________________________________
+
+**Défi 7 : Calculer la moyenne des nombres pairs dans une liste**
+
+Écris un programme qui :
+
+- Demande à l'utilisateur combien de nombres il veut ajouter dans une liste.
+- Permet à l'utilisateur de saisir ces nombres un par un.
+- Trouve tous les nombres pairs dans cette liste.
+- Calcule et affiche la moyenne des nombres pairs (ou un message indiquant qu'il n'y a pas de nombres pairs).
+
+Ce que tu apprendras :
+
+- Gérer les listes en Python.
+- Parcourir une liste avec une boucle.
+- Utiliser des conditions pour filtrer des éléments (pairs).
+- Gérer la division avec un cas spécial (éviter une erreur si aucun nombre pair n'est présent).
+
+**Exemple attendu**
+
+<ins>Entrée :</ins>
+
+```
+How many numbers do you want to add? 5
+Enter number 1: 12
+Enter number 2: 7
+Enter number 3: 8
+Enter number 4: 5
+Enter number 5: 10
+```
+
+<ins>Sortie :</ins>
+
+```
+The even numbers are: [12, 8, 10]
+The average of the even numbers is: 10.0
+```
+
+<ins>Entrée (aucun pair) :</ins>
+
+```
+How many numbers do you want to add? 3
+Enter number 1: 1
+Enter number 2: 3
+Enter number 3: 5
+```
+
+<ins>Sortie :</ins>
+
+```
+There are no even numbers in the list.
+```
