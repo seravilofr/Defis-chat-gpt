@@ -178,3 +178,27 @@ Enter number 3: 5
 ```
 There are no even numbers in the list.
 ```
+
+_______________________________________
+
+**Défi 8 : Compter les mots d'une phrase**
+
+Écris un programme qui :
+
+- Demande à l'utilisateur de saisir une phrase.
+- Compte le nombre de mots dans cette phrase.
+- Affiche le résultat.
+
+Objectifs d'apprentissage :
+
+- Manipulation des chaînes de caractères (str).
+- Utilisation de la méthode .split() pour découper une chaîne en plusieurs parties.
+- Utilisation des fonctions de base comme len() pour mesurer la longueur d'une liste.
+
+**Exemple d'exécution :**
+
+```
+Enter a sentence: Python is fun to learn!
+Your sentence contains 5 words.
+```
+
